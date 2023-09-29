@@ -16,7 +16,7 @@ with Stripe so that users can cover REAL payments.</br>
 
 ## Home Page:
 
-![image](https://user-images.githubusercontent.com/91786605/235809885-fb7ebaf4-e309-4cf0-ba23-0b8ce91af3cd.png)
+![zs-shop](https://github.com/ZeenatFirdosh/E-commerce/assets/100707152/abb3a694-7cd4-4789-921d-9f8f82daadc7)
 
 
 ## Get Now:
