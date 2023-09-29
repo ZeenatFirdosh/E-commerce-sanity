@@ -20,7 +20,7 @@ with Stripe so that users can cover REAL payments.</br>
 
 
 ## Get Now:
-![image](https://user-images.githubusercontent.com/91786605/235810644-ede6b8c6-0f65-44de-9709-920f74dbd79b.png)
+![image](https://github.com/ZeenatFirdosh/E-commerce/assets/100707152/55bfe54c-c307-4e1b-9ab8-a8b84539ebb8)
 
 
 ## Best Seller Products:
@@ -31,4 +31,4 @@ with Stripe so that users can cover REAL payments.</br>
 
 ## Footer:
 
-![image](https://user-images.githubusercontent.com/91786605/235810537-b71e4f47-c095-4278-8afb-a4c88d956f71.png)
+![image](https://github.com/ZeenatFirdosh/E-commerce/assets/100707152/b8bcd284-ab34-4654-b7a2-0cd23023bb25)
