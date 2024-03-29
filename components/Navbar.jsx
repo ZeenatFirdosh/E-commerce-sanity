@@ -7,11 +7,11 @@ import { useStateContext} from '../context/StateContext';
 
 const Navbar = () => {
   const { showCart, setShowCart, totalQuantities } = useStateContext();
-
+  // console.log(process.env,"process.env");
   return (
     <div className="navbar-container">
       <p className="logo">
-        <Link href="/">ZS Headphones</Link>
+        <Link href="/" >ZS Electronics</Link>
       </p>
 
       <button type="button" className="cart-icon" onClick={() => setShowCart(true)}>
