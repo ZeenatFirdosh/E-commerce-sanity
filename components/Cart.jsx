@@ -16,7 +16,7 @@ const Cart = () => {
   const handleCheckout = async () => {
     const stripe = await getStripe();
 
-    const response = await fetch('/api/stripe', {
+    const response = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/stripe`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
